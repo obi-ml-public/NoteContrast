@@ -1,0 +1,11 @@
+{
+ "output_dir":"/mnt/<path>/phi/ehr_projects/note_pretraining/models/mlm_icd10_clip_note/mimic_3_8192_icd/v1/trial_1/checkpoint-250",
+ "logging_dir":"/mnt/<path>/phi/ehr_projects/note_pretraining/logs/mlm_icd10_clip_note/mimic_3_8192_icd/v1/trial_1/",
+ "overwrite_output_dir":false,
+ "do_train":false,
+ "do_eval":false,
+ "do_predict":false,
+ "report_to":[],
+ "run_name": "save",
+ "dataloader_num_workers": 32
+}

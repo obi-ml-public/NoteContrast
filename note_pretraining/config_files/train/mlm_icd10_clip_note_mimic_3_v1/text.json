@@ -1,0 +1,10 @@
+{
+ "model_name_or_path":"/mnt/<path>/phi/ehr_projects/note_pretraining/models/mlm/mimic_3/v1/trial_1/checkpoint-2500/",
+ "train_file": "/mnt/<path>/phi/ehr_projects/note_pretraining/data/mimic_3/train.jsonl",
+ "validation_file": "/mnt/<path>/phi/ehr_projects/note_pretraining/data/mimic_3/validation.jsonl",
+ "max_seq_length": 4096,
+ "pad_to_max_length": true,
+ "train_on_fly": true,
+ "text_column_name": "text",
+ "label_column_name": "label_note"
+}

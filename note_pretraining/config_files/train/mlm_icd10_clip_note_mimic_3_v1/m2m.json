@@ -1,0 +1,8 @@
+{
+ "gensim_model": null,
+ "loss_function": "clip",
+ "lm_objective": "mlm",
+ "text_projection": 768,
+ "label_projection": 768,
+ "loss_weighting": "uncertainty"
+}

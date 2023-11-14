@@ -1,0 +1,10 @@
+{
+ "model_name_or_path":"/mnt/<path>/phi/ehr_projects/note_pretraining/models/mlm_icd10_clip_note/mimic_3_8192/v1/trial_1/checkpoint-10000/text_lm_model/",
+ "train_file": "/mnt/<path>/phi/ehr_projects/note_pretraining/data/icd_10_descriptions/train.jsonl",
+ "validation_file": null,
+ "max_seq_length": 64,
+ "pad_to_max_length": false,
+ "train_on_fly": true,
+ "text_column_name": "text",
+ "label_column_name": "label_note"
+}

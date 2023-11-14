@@ -1,0 +1,8 @@
+{
+ "gensim_model": null,
+ "loss_function": "clip",
+ "lm_objective": null,
+ "text_projection": 768,
+ "label_projection": 768,
+ "load_state_dict": "/mnt/<path>/phi/ehr_projects/note_pretraining/models/mlm_icd10_clip_note/mimic_3_8192/v1/trial_1/checkpoint-10000/pytorch_model.bin"
+}

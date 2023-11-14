@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@86fa7d88-52f4-46e8-9def-79d581292b94" />
+        <remote-mappings server-id="python@sftp://pk621@obi-gpu2:22/mnt/obi0/pk621/projects/pycharm/python_active_learning.sh" />
+      </list>
+    </list>
+  </component>
+</project>
